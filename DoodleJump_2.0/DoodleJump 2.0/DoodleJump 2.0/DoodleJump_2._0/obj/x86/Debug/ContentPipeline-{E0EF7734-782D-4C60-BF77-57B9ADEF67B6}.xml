@@ -1,0 +1,137 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Character Left.png</Source>
+      <Name>Character Left</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ashwin\Desktop\Ashwin\High School\Grade 12\ICS 4U1\Games\DoodleJump_2.0_Part 3\DoodleJump_2.0 Final\DoodleJump 2.0\DoodleJump 2.0\DoodleJump_2._0\bin\x86\Debug\Content\Character Left.xnb</Output>
+      <Time>2020-11-10T18:38:22-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Character Right.png</Source>
+      <Name>Character Right</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ashwin\Desktop\Ashwin\High School\Grade 12\ICS 4U1\Games\DoodleJump_2.0_Part 3\DoodleJump_2.0 Final\DoodleJump 2.0\DoodleJump 2.0\DoodleJump_2._0\bin\x86\Debug\Content\Character Right.xnb</Output>
+      <Time>2020-11-10T18:38:24-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Floor.png</Source>
+      <Name>Floor</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ashwin\Desktop\Ashwin\High School\Grade 12\ICS 4U1\Games\DoodleJump_2.0_Part 3\DoodleJump_2.0 Final\DoodleJump 2.0\DoodleJump 2.0\DoodleJump_2._0\bin\x86\Debug\Content\Floor.xnb</Output>
+      <Time>2020-11-10T18:38:24-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Bullet Left.png</Source>
+      <Name>Bullet Left</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ashwin\Desktop\Ashwin\High School\Grade 12\ICS 4U1\Games\DoodleJump_2.0_Part 3\DoodleJump_2.0 Final\DoodleJump 2.0\DoodleJump 2.0\DoodleJump_2._0\bin\x86\Debug\Content\Bullet Left.xnb</Output>
+      <Time>2020-11-10T18:38:22-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Bullet Right.png</Source>
+      <Name>Bullet Right</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ashwin\Desktop\Ashwin\High School\Grade 12\ICS 4U1\Games\DoodleJump_2.0_Part 3\DoodleJump_2.0 Final\DoodleJump 2.0\DoodleJump 2.0\DoodleJump_2._0\bin\x86\Debug\Content\Bullet Right.xnb</Output>
+      <Time>2020-11-10T18:38:22-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Platform.png</Source>
+      <Name>Platform</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ashwin\Desktop\Ashwin\High School\Grade 12\ICS 4U1\Games\DoodleJump_2.0_Part 3\DoodleJump_2.0 Final\DoodleJump 2.0\DoodleJump 2.0\DoodleJump_2._0\bin\x86\Debug\Content\Platform.xnb</Output>
+      <Time>2020-11-10T19:38:58-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Coin.png</Source>
+      <Name>Coin</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ashwin\Desktop\Ashwin\High School\Grade 12\ICS 4U1\Games\DoodleJump_2.0_Part 3\DoodleJump_2.0 Final\DoodleJump 2.0\DoodleJump 2.0\DoodleJump_2._0\bin\x86\Debug\Content\Coin.xnb</Output>
+      <Time>2020-11-10T20:26:24-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Ghost.png</Source>
+      <Name>Ghost</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ashwin\Desktop\Ashwin\High School\Grade 12\ICS 4U1\Games\DoodleJump_2.0_Part 3\DoodleJump_2.0 Final\DoodleJump 2.0\DoodleJump 2.0\DoodleJump_2._0\bin\x86\Debug\Content\Ghost.xnb</Output>
+      <Time>2020-11-10T21:33:12-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Star.png</Source>
+      <Name>Star</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ashwin\Desktop\Ashwin\High School\Grade 12\ICS 4U1\Games\DoodleJump_2.0_Part 3\DoodleJump_2.0 Final\DoodleJump 2.0\DoodleJump 2.0\DoodleJump_2._0\bin\x86\Debug\Content\Star.xnb</Output>
+      <Time>2020-11-10T21:33:12-05:00</Time>
+    </Item>
+    <Item>
+      <Source>SpriteFont1.spritefont</Source>
+      <Name>SpriteFont1</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ashwin\Desktop\Ashwin\High School\Grade 12\ICS 4U1\Games\DoodleJump_2.0_Part 3\DoodleJump_2.0 Final\DoodleJump 2.0\DoodleJump 2.0\DoodleJump_2._0\bin\x86\Debug\Content\SpriteFont1.xnb</Output>
+      <Time>2020-11-10T21:11:44-05:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID>{E0EF7734-782D-4C60-BF77-57B9ADEF67B6}</ContentProjectGUID>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\Ashwin\Desktop\Ashwin\High School\Grade 12\ICS 4U1\Games\DoodleJump_2.0_Part 3\DoodleJump_2.0 Final\DoodleJump 2.0\DoodleJump 2.0\DoodleJump_2._0Content\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\Ashwin\Desktop\Ashwin\High School\Grade 12\ICS 4U1\Games\DoodleJump_2.0_Part 3\DoodleJump_2.0 Final\DoodleJump 2.0\DoodleJump 2.0\DoodleJump_2._0\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\Ashwin\Desktop\Ashwin\High School\Grade 12\ICS 4U1\Games\DoodleJump_2.0_Part 3\DoodleJump_2.0 Final\DoodleJump 2.0\DoodleJump 2.0\DoodleJump_2._0\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\Ashwin\Desktop\Ashwin\High School\Grade 12\ICS 4U1\Games\DoodleJump_2.0_Part 3\DoodleJump_2.0 Final\DoodleJump 2.0\DoodleJump 2.0\DoodleJump_2._0\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2011-09-01T16:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2011-09-01T16:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\WINDOWS\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2020-12-13T22:44:38.1120511-05:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>
