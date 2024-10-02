@@ -1,0 +1,35 @@
+C:\Users\Harsh\Desktop\Doodle_Jump_Game\Doodle_Jump_Game\bin\Debug\net8.0\Doodle_Jump_Game.exe
+C:\Users\Harsh\Desktop\Doodle_Jump_Game\Doodle_Jump_Game\bin\Debug\net8.0\Doodle_Jump_Game.deps.json
+C:\Users\Harsh\Desktop\Doodle_Jump_Game\Doodle_Jump_Game\bin\Debug\net8.0\Doodle_Jump_Game.runtimeconfig.json
+C:\Users\Harsh\Desktop\Doodle_Jump_Game\Doodle_Jump_Game\bin\Debug\net8.0\Doodle_Jump_Game.dll
+C:\Users\Harsh\Desktop\Doodle_Jump_Game\Doodle_Jump_Game\bin\Debug\net8.0\Doodle_Jump_Game.pdb
+C:\Users\Harsh\Desktop\Doodle_Jump_Game\Doodle_Jump_Game\bin\Debug\net8.0\MonoGame.Framework.dll
+C:\Users\Harsh\Desktop\Doodle_Jump_Game\Doodle_Jump_Game\bin\Debug\net8.0\NVorbis.dll
+C:\Users\Harsh\Desktop\Doodle_Jump_Game\Doodle_Jump_Game\bin\Debug\net8.0\runtimes\linux-x64\native\libopenal.so.1
+C:\Users\Harsh\Desktop\Doodle_Jump_Game\Doodle_Jump_Game\bin\Debug\net8.0\runtimes\osx\native\libopenal.1.dylib
+C:\Users\Harsh\Desktop\Doodle_Jump_Game\Doodle_Jump_Game\bin\Debug\net8.0\runtimes\win-x64\native\soft_oal.dll
+C:\Users\Harsh\Desktop\Doodle_Jump_Game\Doodle_Jump_Game\bin\Debug\net8.0\runtimes\win-x86\native\soft_oal.dll
+C:\Users\Harsh\Desktop\Doodle_Jump_Game\Doodle_Jump_Game\bin\Debug\net8.0\runtimes\linux-x64\native\libSDL2-2.0.so.0
+C:\Users\Harsh\Desktop\Doodle_Jump_Game\Doodle_Jump_Game\bin\Debug\net8.0\runtimes\osx\native\libSDL2.dylib
+C:\Users\Harsh\Desktop\Doodle_Jump_Game\Doodle_Jump_Game\bin\Debug\net8.0\runtimes\win-x64\native\SDL2.dll
+C:\Users\Harsh\Desktop\Doodle_Jump_Game\Doodle_Jump_Game\obj\Debug\net8.0\Doodle_Jump_Game.csproj.AssemblyReference.cache
+C:\Users\Harsh\Desktop\Doodle_Jump_Game\Doodle_Jump_Game\obj\Debug\net8.0\Doodle_Jump_Game.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Harsh\Desktop\Doodle_Jump_Game\Doodle_Jump_Game\obj\Debug\net8.0\Doodle_Jump_Game.AssemblyInfoInputs.cache
+C:\Users\Harsh\Desktop\Doodle_Jump_Game\Doodle_Jump_Game\obj\Debug\net8.0\Doodle_Jump_Game.AssemblyInfo.cs
+C:\Users\Harsh\Desktop\Doodle_Jump_Game\Doodle_Jump_Game\obj\Debug\net8.0\Doodle_Jump_Game.csproj.CoreCompileInputs.cache
+C:\Users\Harsh\Desktop\Doodle_Jump_Game\Doodle_Jump_Game\obj\Debug\net8.0\Doodle_J.2C8E7EFB.Up2Date
+C:\Users\Harsh\Desktop\Doodle_Jump_Game\Doodle_Jump_Game\obj\Debug\net8.0\Doodle_Jump_Game.dll
+C:\Users\Harsh\Desktop\Doodle_Jump_Game\Doodle_Jump_Game\obj\Debug\net8.0\refint\Doodle_Jump_Game.dll
+C:\Users\Harsh\Desktop\Doodle_Jump_Game\Doodle_Jump_Game\obj\Debug\net8.0\Doodle_Jump_Game.pdb
+C:\Users\Harsh\Desktop\Doodle_Jump_Game\Doodle_Jump_Game\obj\Debug\net8.0\Doodle_Jump_Game.genruntimeconfig.cache
+C:\Users\Harsh\Desktop\Doodle_Jump_Game\Doodle_Jump_Game\obj\Debug\net8.0\ref\Doodle_Jump_Game.dll
+C:\Users\Harsh\Desktop\Doodle_Jump_Game\Doodle_Jump_Game\bin\Debug\net8.0\Content\Bullet Left.xnb
+C:\Users\Harsh\Desktop\Doodle_Jump_Game\Doodle_Jump_Game\bin\Debug\net8.0\Content\Bullet Right.xnb
+C:\Users\Harsh\Desktop\Doodle_Jump_Game\Doodle_Jump_Game\bin\Debug\net8.0\Content\Character Left.xnb
+C:\Users\Harsh\Desktop\Doodle_Jump_Game\Doodle_Jump_Game\bin\Debug\net8.0\Content\Character Right.xnb
+C:\Users\Harsh\Desktop\Doodle_Jump_Game\Doodle_Jump_Game\bin\Debug\net8.0\Content\Coin.xnb
+C:\Users\Harsh\Desktop\Doodle_Jump_Game\Doodle_Jump_Game\bin\Debug\net8.0\Content\Floor.xnb
+C:\Users\Harsh\Desktop\Doodle_Jump_Game\Doodle_Jump_Game\bin\Debug\net8.0\Content\Ghost.xnb
+C:\Users\Harsh\Desktop\Doodle_Jump_Game\Doodle_Jump_Game\bin\Debug\net8.0\Content\Platform.xnb
+C:\Users\Harsh\Desktop\Doodle_Jump_Game\Doodle_Jump_Game\bin\Debug\net8.0\Content\Star.xnb
+C:\Users\Harsh\Desktop\Doodle_Jump_Game\Doodle_Jump_Game\bin\Debug\net8.0\Content\SpriteFont1.xnb
